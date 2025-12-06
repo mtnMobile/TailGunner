@@ -1,0 +1,35 @@
+End User License Agreement
+
+Mike Hall ("AUTHOR") hereby grants the Licensee ("USER") permission to use,
+copy, modify, and distribute the software listed below ("SOFTWARE") along with
+any accompanying documentation for commercial and non-commercial use except as
+noted below.
+
+USER may not charge any fee or request payment for use of SOFTWARE, USER may
+not sell or request payment for distribution of SOFTWARE. USER may not transfer
+or grant license for use of SOFTWARE. USER is not permitted to alter any
+copyright notices contained in SOFTWARE. Any distribution of SOFTWARE must
+include this license agreement.
+
+USER agrees to comply with any and all import and export regulations that may
+apply to SOFTWARE and indemnifies AUTHOR of any violations.
+
+SOFTWARE may not be used in any way that is deemed to be offensive or
+derogatory by AUTHOR.
+
+SOFTWARE is provided "AS IS" without warranty of any kind, either
+expressed or implied. AUTHOR may not be held responsible for any damages or
+losses resulting from use of SOFTWARE. Additionally, AUTHOR is not responsible
+for support or maintenance of SOFTWARE.
+
+USER may modify SOFTWARE but the terms of this license will remain in effect
+and AUTHOR retains copyright ownership as per applicable copyright laws.
+
+USER may terminate this License at any time by destroying all copies of
+SOFTWARE. AUTHOR may terminate this License without notice if USER fails to
+comply with any provision. USER must destroy all copies of SOFTWARE upon notice
+of termination.
+
+Software:
+
+Tail Gunner Java applet, source code and documentation.
